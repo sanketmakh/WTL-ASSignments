@@ -1,0 +1,9 @@
+<!ELEMENT class (employee,employee,employee)>
+<!ELEMENT employee (Surname,Name,Dept,Salary,Birthdate,Hire_date)>
+<!ATTLIST employee uid CDATA #REQUIRED>
+<!ELEMENT Surname (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Dept (#PCDATA)>
+<!ELEMENT Salary (#PCDATA)>
+<!ELEMENT Birthdate (#PCDATA)>
+<!ELEMENT Hire_date (#PCDATA)>
