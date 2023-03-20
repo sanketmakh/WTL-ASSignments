@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class SYSTEM "empdata.dtd">
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<class>
+    <employee uid="1">
+        <Surname>Makh</Surname>
+        <Name>Sanket</Name>
+        <Dept>IT</Dept>
+        <Salary>12</Salary>
+        <Birthdate>1990/06/01</Birthdate>
+        <Hire_date>2019/01/01</Hire_date>
+    </employee>
+    <employee uid="2">
+        <Surname>lonkar</Surname>
+        <Name>Vijay</Name>
+        <Dept>Data Analytics</Dept>
+        <Salary>45</Salary>
+        <Birthdate>1960/01/31</Birthdate>
+        <Hire_date>2000/12/23</Hire_date>
+    </employee>
+    <employee uid="3">
+        <Surname>Lohiya</Surname>
+        <Name>Pranav</Name>
+        <Dept>Machine Learning</Dept>
+        <Salary>10</Salary>
+        <Birthdate>2000/08/11</Birthdate>
+        <Hire_date>2000/08/09</Hire_date>
+    </employee>
+</class>
